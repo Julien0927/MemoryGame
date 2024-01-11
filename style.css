@@ -16,7 +16,8 @@ h1{
 }
 
 .card {
-    background-image: url('images/bg_card.jpg');
+    /*background-image: url('images/bg_card.jpg');*/
+    background-color: #ccc;
     border-radius: 5px;
     cursor: pointer;
     transform: rotateY(0deg);
