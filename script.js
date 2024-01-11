@@ -30,6 +30,10 @@ const card = [
     '/images/onepiece.png',
     '/images/Zoro.png',
     '/images/luffy.jpg',
+    '/images/heroes.png',
+    '/images/inosuke.jpg',
+    '/images/itachi.jpg',
+    '/images/brook.webp',
 ]
 
 function duplicateArray(arraySimple) {
